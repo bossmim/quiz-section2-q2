@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.Container {
+  margin: 24px;
+}
+
+table,
+th,
+td {
+  min-width: 400px;
+  margin: auto;
+  border: 1px solid black;
+}
